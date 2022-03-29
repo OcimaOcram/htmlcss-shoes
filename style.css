@@ -40,16 +40,15 @@ a {
     position: relative; 
 }
 #sez2 {
-    height: 100vh;
-    width: 100%;
     background-color: green;
-    color: yellow;
-    position: relative; 
+    color: red;
 }
 #sez3 {
+    background-color: yellow;
+}
+.sezx {
     height: 100vh;
     width: 100%;
-    background-color: yellow;
     color: rgb(0, 128, 32);
     position: relative; 
 }
